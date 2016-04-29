@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7FFE21B6-59E7-4D61-B122-785E9D2C3F59</string>
+	<key>IDESourceControlProjectName</key>
+	<string>lexplateMobile</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>06F995BA62448BD5F1C8527F5355675DB8AA102D</key>
+		<string>https://github.com/timgrig/lexplate</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>lexplateMobile.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>06F995BA62448BD5F1C8527F5355675DB8AA102D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/timgrig/lexplate</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>06F995BA62448BD5F1C8527F5355675DB8AA102D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>06F995BA62448BD5F1C8527F5355675DB8AA102D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Origin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
